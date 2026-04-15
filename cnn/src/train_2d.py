@@ -3,24 +3,18 @@ train_2d.py
 ==================
 
 Training pipeline for fault detection in 2D marine seismic sections.
-Uses Faster R-CNN with FPN backbone (ResNet-50) and PyTorch.
+Uses Faster R-CNN with FPN backbone ResNet-50 and PyTorch.
 
-We went with Faster R-CNN over YOLO/SSD because faults are tiny compared
-to the full seismic image, and two-stage detectors handle small objects
-better. The FPN gives us feature maps at multiple scales so we can catch
+I went with Faster R-CNN over YOLO/SSD because faults are tiny compared
+to the full seismic image, and two stage detectors handle small objects
+better. The FPN gives feature maps at multiple scales so we can catch
 faults whether they're 20px or 200px. ResNet-50 is well matched to this
-dataset size (~168 images) — ResNet-101 has more capacity but risks
-overfitting with limited data and is significantly slower on MPS.
-
-MPS memory is capped at 70% of unified memory (≈17 GB on a 24 GB M4 Pro)
-via PYTORCH_MPS_HIGH_WATERMARK_RATIO so the OS and other apps stay
-responsive during overnight runs.
+dataset size.
 
 EXPECTED DATA STRUCTURE:
     data/
-    ├── images/          ← can be overridden with --images_dir
+    ├── images/
     │   ├── T2010.100.mig.1500.png
-    │   └── ...
     ├── train.json
     └── val.json
 
@@ -31,9 +25,6 @@ USAGE:
 
     # Resume from checkpoint:
     python train_2d.py --data_dir ./data --resume checkpoints/best_model.pth
-
-    # Inference on new image:
-    python train_2d.py --predict --image path/to/seismic.png --weights checkpoints/best_model.pth
 """
 
 import os
@@ -44,9 +35,6 @@ import time
 import random
 from pathlib import Path
 from datetime import datetime, timedelta
-
-# Cap MPS at 70% of unified memory — leaves ~7 GB for macOS and other apps.
-# Must be set before importing torch.
 
 import numpy as np
 import torch
@@ -68,10 +56,9 @@ import matplotlib.patches as patches
 # =============================================================================
 
 TRAIN_CONFIG = {
-    # --- Model ---
     "backbone": "resnet50",  # resnet50 or resnet101
-    "pretrained_backbone": True,  # ImageNet pretrained (critical for small data)
-    "num_classes": 2,  # 1 class (fault) + background
+    "pretrained_backbone": True,  # ImageNet pretrained
+    "num_classes": 2,  # fault + background
     "min_size": 1024,  # Min image dimension during training
     "max_size": 2048,  # Max image dimension during training
     # --- RPN Anchor sizes ---
@@ -82,12 +69,12 @@ TRAIN_CONFIG = {
     "learning_rate": 0.0005,
     "momentum": 0.9,
     "weight_decay": 0.0005,
-    "lr_scheduler_step": 30,  # Scaled from 40 to suit 80-epoch run
+    "lr_scheduler_step": 30,  # Scaled from 40 to suit 80 epoch run
     "lr_scheduler_gamma": 0.5,
     "warmup_epochs": 3,
-    "epochs": 80,  # ~4-5 hrs on M4 Pro MPS with resnet50 + batch 1
-    "batch_size": 1,  # Keeps memory pressure low, leaves OS headroom
-    "num_workers": 0,  # Required for MPS on macOS
+    "epochs": 80,
+    "batch_size": 1,
+    "num_workers": 0,
     # --- Augmentation ---
     "augment_horizontal_flip": True,
     "augment_brightness": 0.2,
@@ -103,7 +90,6 @@ TRAIN_CONFIG = {
     "checkpoint_dir": "checkpoints",
 }
 
-# Print a live status line every N batches so you can confirm training is running
 HEARTBEAT_EVERY = 5
 
 
@@ -133,21 +119,6 @@ def heartbeat(batch_idx, n_batches, epoch, loss, epoch_start):
 
 
 class SeismicFaultDataset(torch.utils.data.Dataset):
-    """
-    Dataset for seismic fault detection.
-    Loads PNG images and COCO-format JSON annotations.
-
-    Parameters
-    ----------
-    data_dir : str or Path
-        Directory containing the annotation JSON files.
-    annotation_file : str
-        Filename of the COCO JSON (e.g. "train.json").
-    transforms : callable, optional
-        Transform to apply to (image, target) pairs.
-    image_dir : str or Path, optional
-        Directory containing the PNG images. Defaults to data_dir/images/.
-    """
 
     def __init__(self, data_dir, annotation_file, transforms=None, image_dir=None):
         self.data_dir = Path(data_dir)
@@ -512,8 +483,7 @@ def train(config, data_dir, images_dir=None):
 
     print(f"  Started at:      {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
-    # Rough ETA shown upfront so you know when to check back
-    secs_per_epoch = 55  # conservative for resnet50 + batch 1 on M4 Pro MPS
+    secs_per_epoch = 55
     est_finish = datetime.now() + timedelta(seconds=secs_per_epoch * config["epochs"])
     print(
         f"  Estimated finish: ~{est_finish.strftime('%Y-%m-%d %H:%M:%S')} "

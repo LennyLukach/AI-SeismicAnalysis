@@ -63,7 +63,7 @@ SECTION_HEIGHT_IN = 10
 SECTION_DPI = 150
 
 # Built dynamically at runtime from all SGY files found in AIRGUN_DATA_ROOT.
-# Every 5th line in this sorted list goes to val (~20%), the rest to train.
+# Every 5th line in this sorted list goes to val, the rest to train.
 # Populated in the entry point before any lines are processed.
 ALL_LINES = []
 
@@ -169,21 +169,16 @@ def translate_sgy_stem_to_nav_line(stem):
         if s not in candidates:
             candidates.append(s)
 
-        # F-6-88 / F-10-88 / F-12-89 style: bare integer [+ optional A suffix]
-        # f688stk04a -> 4A,  f1088stk01 -> 1
         m = re.match(r"^f\d+stks?(\d+)(a?)$", stem, re.IGNORECASE)
         if m:
             num = str(int(m.group(1)))
-            suffix = m.group(2).upper()  # '' or 'A'
+            suffix = m.group(2).upper()
             bare = num + suffix
             if bare not in candidates:
                 candidates.append(bare)
-            # Also try without the alpha suffix as a further fallback
             if suffix and num not in candidates:
                 candidates.append(num)
 
-    # ── W-3-69-BS: strip trailing _NNNNN SP-count, normalise -EXT -> EXT ─────
-    # e.g. G_17558 -> G,  Q-EXT_45287 -> QEXT,  WA-024_1187 -> WA-024
     m = re.match(r"^(.+?)_\d+$", stem)
     if m:
         base = m.group(1)
@@ -193,8 +188,6 @@ def translate_sgy_stem_to_nav_line(stem):
         if base != base_norm and base not in candidates:
             candidates.append(base)
 
-    # ── L-12-82-WG / L-8-81-WG: leading digits before wg or _ ───────────────
-    # e.g. 202wg82stk -> 202,  100_1204 -> 100
     m = re.match(r"^(\d+)[_a-zA-Z]", stem)
     if m:
         num = m.group(1)
@@ -207,7 +200,7 @@ def translate_sgy_stem_to_nav_line(stem):
 def resolve_nav_line(stem, nav, log_fn=None):
     """
     Find the NAV line name for a given SGY stem by trying direct match first,
-    then dataset-specific translations. Returns the matching subset of nav as
+    then dataset specific translations. Returns the matching subset of nav as
     a DataFrame. Raises RuntimeError if no match is found.
     """
     for candidate in translate_sgy_stem_to_nav_line(stem):
@@ -217,7 +210,7 @@ def resolve_nav_line(stem, nav, log_fn=None):
                 log_fn(f"  NAV line matched via translation: '{stem}' -> '{candidate}'")
             return subset.copy()
 
-    # Nothing matched — log available lines to aid debugging
+    # Nothing matched
     available = sorted(nav["line"].unique().tolist())
     if log_fn:
         log_fn(
@@ -382,14 +375,10 @@ def process_line(line, sgy_path, nav_path, dataset_name):
     diag_labeled = DIAG_DIR / f"{line}_labeled.png"
     section_png = IMAGES_DIR / f"{line}_section_cnn.png"
 
-    # ── Step 1: Feature extraction ────────────────────────────────────────────
     log()
     log("STEP 1 — Feature extraction")
 
     log("  Loading navigation...")
-    # Read all columns as str to prevent pandas from inferring numeric types
-    # for the 'line' column, which would break .str.strip(). SP is cast to int
-    # explicitly after stripping whitespace.
     nav = pd.read_csv(
         nav_path,
         comment="#",
@@ -437,9 +426,8 @@ def process_line(line, sgy_path, nav_path, dataset_name):
     def bandpass(data, low, high, fs, order=4):
         nyq = fs / 2.0
         low_n = low / nyq
-        high_n = min(high / nyq, 0.99)  # clamp to just below Nyquist
+        high_n = min(high / nyq, 0.99)
         if low_n >= high_n:
-            # Sample rate too low even for the low cutoff — skip filtering
             log(
                 f"  WARNING: sample rate {fs} Hz too low for bandpass "
                 f"[{low}–{high} Hz], skipping filter",
@@ -601,7 +589,6 @@ def process_line(line, sgy_path, nav_path, dataset_name):
     depth_range = depth_max - depth_min
     log("  Step 1 complete")
 
-    # ── Step 2: Fault detection ───────────────────────────────────────────────
     log()
     log("STEP 2 — Fault detection")
 
@@ -636,7 +623,6 @@ def process_line(line, sgy_path, nav_path, dataset_name):
         )
     log("  Step 2 complete")
 
-    # ── Step 3: Bounding boxes ────────────────────────────────────────────────
     log()
     log("STEP 3 — Bounding boxes")
 
@@ -687,7 +673,6 @@ def process_line(line, sgy_path, nav_path, dataset_name):
     log(f"  Generated {len(boxes)} boxes")
     log("  Step 3 complete")
 
-    # ── Step 4: Dataset building ──────────────────────────────────────────────
     log()
     log("STEP 4 — Dataset building")
 

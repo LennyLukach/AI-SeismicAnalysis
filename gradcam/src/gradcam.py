@@ -31,10 +31,10 @@ model.load_state_dict(checkpoint["model_state_dict"])
 model.to(device).eval()
 print("Model loaded")
 
-# Last conv block of the ResNet-50 backbone — richest spatial features
+# Last conv block of the ResNet-50 backbone
 target_layers = [model.backbone.body.layer4]
 
-# EigenCAM works better than vanilla GradCAM for detection models —
+# EigenCAM works better than vanilla GradCAM for detection models
 # it doesn't need a classification target, just the feature activations
 cam = EigenCAM(model=model, target_layers=target_layers, reshape_transform=None)
 
