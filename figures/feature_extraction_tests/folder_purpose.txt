@@ -1,0 +1,2 @@
+This folder contains a few of the trial and erros that we had throughout this project for getting the faults and features
+accurately extracted. 

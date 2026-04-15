@@ -1,0 +1,623 @@
+{
+  "info": {
+    "description": "NAMSS seismic fault dataset"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "fault",
+      "supercategory": "geology"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "f1088stk01_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk01"
+    },
+    {
+      "id": 2,
+      "file_name": "f1088stk06_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk06"
+    },
+    {
+      "id": 3,
+      "file_name": "f1088stk11_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk11"
+    },
+    {
+      "id": 4,
+      "file_name": "f1088stk16_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk16"
+    },
+    {
+      "id": 5,
+      "file_name": "f1088stk21_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk21"
+    },
+    {
+      "id": 6,
+      "file_name": "f1088stk26_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk26"
+    },
+    {
+      "id": 7,
+      "file_name": "f1088stk31_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk31"
+    },
+    {
+      "id": 8,
+      "file_name": "f1289stk02_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk02"
+    },
+    {
+      "id": 9,
+      "file_name": "f1289stk12_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk12"
+    },
+    {
+      "id": 10,
+      "file_name": "f1289stk22_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk22"
+    },
+    {
+      "id": 11,
+      "file_name": "f1289stk27_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk27"
+    },
+    {
+      "id": 12,
+      "file_name": "f287stk01_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk01"
+    },
+    {
+      "id": 13,
+      "file_name": "f287stk06_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk06"
+    },
+    {
+      "id": 14,
+      "file_name": "f287stk11_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk11"
+    },
+    {
+      "id": 15,
+      "file_name": "f287stk15_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk15"
+    },
+    {
+      "id": 16,
+      "file_name": "f287stk20_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk20"
+    },
+    {
+      "id": 17,
+      "file_name": "f287stk25_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk25"
+    },
+    {
+      "id": 18,
+      "file_name": "f287stk30_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk30"
+    },
+    {
+      "id": 19,
+      "file_name": "f287stk41_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk41"
+    },
+    {
+      "id": 20,
+      "file_name": "f287stk46_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk46"
+    },
+    {
+      "id": 21,
+      "file_name": "f287stk51_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk51"
+    },
+    {
+      "id": 22,
+      "file_name": "f287stk56_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk56"
+    },
+    {
+      "id": 23,
+      "file_name": "f287stks5_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stks5"
+    },
+    {
+      "id": 24,
+      "file_name": "f387stk02_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk02"
+    },
+    {
+      "id": 25,
+      "file_name": "f387stk07_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk07"
+    },
+    {
+      "id": 26,
+      "file_name": "f387stk11_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk11"
+    },
+    {
+      "id": 27,
+      "file_name": "f387stk16_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk16"
+    },
+    {
+      "id": 28,
+      "file_name": "f387stk21_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk21"
+    },
+    {
+      "id": 29,
+      "file_name": "f387stk26_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk26"
+    },
+    {
+      "id": 30,
+      "file_name": "f387stk31_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk31"
+    },
+    {
+      "id": 31,
+      "file_name": "f688stk01_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk01"
+    },
+    {
+      "id": 32,
+      "file_name": "f688stk04_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk04"
+    },
+    {
+      "id": 33,
+      "file_name": "f688stk06a_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk06a"
+    },
+    {
+      "id": 34,
+      "file_name": "f688stk12_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk12"
+    },
+    {
+      "id": 35,
+      "file_name": "f688stk15_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk15"
+    },
+    {
+      "id": 36,
+      "file_name": "202wg82stk_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "202wg82stk"
+    },
+    {
+      "id": 37,
+      "file_name": "217wg82stk_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "217wg82stk"
+    },
+    {
+      "id": 38,
+      "file_name": "T2010.103.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.103.mig.1500"
+    },
+    {
+      "id": 39,
+      "file_name": "T2010.108.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.108.mig.1500"
+    },
+    {
+      "id": 40,
+      "file_name": "T2010.1103.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.1103.mig.1500"
+    },
+    {
+      "id": 41,
+      "file_name": "T2010.2102.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.2102.mig.1500"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        623.82,
+        801.57,
+        1074.5,
+        127.67
+      ],
+      "area": 137181.42,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7565
+    },
+    {
+      "id": 2,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        987.03,
+        827.76,
+        85.02,
+        122.22
+      ],
+      "area": 10391.14,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7616
+    },
+    {
+      "id": 3,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2493.18,
+        815.21,
+        86.9,
+        130.4
+      ],
+      "area": 11331.76,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7665
+    },
+    {
+      "id": 4,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        25.42,
+        876.32,
+        950.85,
+        124.95
+      ],
+      "area": 118808.71,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7557
+    },
+    {
+      "id": 5,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        1284.84,
+        110.72,
+        363.36,
+        177.4
+      ],
+      "area": 64460.06,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7844
+    },
+    {
+      "id": 6,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        2631.69,
+        771.01,
+        68.31,
+        122.22
+      ],
+      "area": 8348.85,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.8239
+    },
+    {
+      "id": 7,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        644.22,
+        735.04,
+        116.53
+      ],
+      "area": 85654.21,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7941
+    },
+    {
+      "id": 8,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        1973.69,
+        661.72,
+        726.31,
+        114.03
+      ],
+      "area": 82821.13,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7589
+    },
+    {
+      "id": 9,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        2385.59,
+        392.33,
+        115.28,
+        127.67
+      ],
+      "area": 14717.8,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7578
+    },
+    {
+      "id": 10,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        783.77,
+        858.19,
+        119.03
+      ],
+      "area": 102150.36,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7633
+    },
+    {
+      "id": 11,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        2063.63,
+        803.27,
+        636.37,
+        116.53
+      ],
+      "area": 74156.2,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.764
+    },
+    {
+      "id": 12,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        263.05,
+        748.64,
+        92.99,
+        127.67
+      ],
+      "area": 11872.03,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7502
+    },
+    {
+      "id": 13,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2592.21,
+        871.41,
+        95.36,
+        127.67
+      ],
+      "area": 12174.61,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7536
+    },
+    {
+      "id": 14,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2464.47,
+        611.21,
+        84.68,
+        100.0
+      ],
+      "area": 8468.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7681
+    },
+    {
+      "id": 15,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2577.54,
+        541.04,
+        87.08,
+        100.0
+      ],
+      "area": 8708.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7626
+    },
+    {
+      "id": 16,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2654.19,
+        468.38,
+        45.81,
+        100.0
+      ],
+      "area": 4581.0,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7852
+    },
+    {
+      "id": 17,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1114.1,
+        755.74,
+        85.17,
+        100.0
+      ],
+      "area": 8517.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7613
+    },
+    {
+      "id": 18,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        2058.95,
+        689.36,
+        87.97,
+        100.0
+      ],
+      "area": 8797.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.8054
+    },
+    {
+      "id": 19,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        24.09,
+        421.37,
+        90.68,
+        100.0
+      ],
+      "area": 9068.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7559
+    },
+    {
+      "id": 20,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        430.18,
+        506.02,
+        84.55,
+        100.0
+      ],
+      "area": 8455.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7937
+    }
+  ]
+}

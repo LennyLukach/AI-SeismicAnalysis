@@ -1,0 +1,7423 @@
+{
+  "info": {
+    "description": "NAMSS seismic fault dataset"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "fault",
+      "supercategory": "geology"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "f1088stk01_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk01"
+    },
+    {
+      "id": 2,
+      "file_name": "f1088stk06_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk06"
+    },
+    {
+      "id": 3,
+      "file_name": "f1088stk11_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk11"
+    },
+    {
+      "id": 4,
+      "file_name": "f1088stk16_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk16"
+    },
+    {
+      "id": 5,
+      "file_name": "f1088stk21_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk21"
+    },
+    {
+      "id": 6,
+      "file_name": "f1088stk26_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk26"
+    },
+    {
+      "id": 7,
+      "file_name": "f1088stk31_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1088stk31"
+    },
+    {
+      "id": 8,
+      "file_name": "f1289stk02_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk02"
+    },
+    {
+      "id": 9,
+      "file_name": "f1289stk12_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk12"
+    },
+    {
+      "id": 10,
+      "file_name": "f1289stk22_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk22"
+    },
+    {
+      "id": 11,
+      "file_name": "f1289stk27_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f1289stk27"
+    },
+    {
+      "id": 12,
+      "file_name": "f287stk01_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk01"
+    },
+    {
+      "id": 13,
+      "file_name": "f287stk06_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk06"
+    },
+    {
+      "id": 14,
+      "file_name": "f287stk11_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk11"
+    },
+    {
+      "id": 15,
+      "file_name": "f287stk15_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk15"
+    },
+    {
+      "id": 16,
+      "file_name": "f287stk20_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk20"
+    },
+    {
+      "id": 17,
+      "file_name": "f287stk25_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk25"
+    },
+    {
+      "id": 18,
+      "file_name": "f287stk30_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk30"
+    },
+    {
+      "id": 19,
+      "file_name": "f287stk41_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk41"
+    },
+    {
+      "id": 20,
+      "file_name": "f287stk46_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk46"
+    },
+    {
+      "id": 21,
+      "file_name": "f287stk51_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk51"
+    },
+    {
+      "id": 22,
+      "file_name": "f287stk56_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stk56"
+    },
+    {
+      "id": 23,
+      "file_name": "f287stks5_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f287stks5"
+    },
+    {
+      "id": 24,
+      "file_name": "f387stk02_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk02"
+    },
+    {
+      "id": 25,
+      "file_name": "f387stk07_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk07"
+    },
+    {
+      "id": 26,
+      "file_name": "f387stk11_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk11"
+    },
+    {
+      "id": 27,
+      "file_name": "f387stk16_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk16"
+    },
+    {
+      "id": 28,
+      "file_name": "f387stk21_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk21"
+    },
+    {
+      "id": 29,
+      "file_name": "f387stk26_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk26"
+    },
+    {
+      "id": 30,
+      "file_name": "f387stk31_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f387stk31"
+    },
+    {
+      "id": 31,
+      "file_name": "f688stk01_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk01"
+    },
+    {
+      "id": 32,
+      "file_name": "f688stk04_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk04"
+    },
+    {
+      "id": 33,
+      "file_name": "f688stk06a_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk06a"
+    },
+    {
+      "id": 34,
+      "file_name": "f688stk12_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk12"
+    },
+    {
+      "id": 35,
+      "file_name": "f688stk15_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "f688stk15"
+    },
+    {
+      "id": 36,
+      "file_name": "202wg82stk_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "202wg82stk"
+    },
+    {
+      "id": 37,
+      "file_name": "217wg82stk_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "217wg82stk"
+    },
+    {
+      "id": 38,
+      "file_name": "T2010.103.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.103.mig.1500"
+    },
+    {
+      "id": 39,
+      "file_name": "T2010.108.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.108.mig.1500"
+    },
+    {
+      "id": 40,
+      "file_name": "T2010.1103.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.1103.mig.1500"
+    },
+    {
+      "id": 41,
+      "file_name": "T2010.2102.mig.1500_section_cnn.png",
+      "width": 2700,
+      "height": 1500,
+      "source": "T2010.2102.mig.1500"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        847.29,
+        64.54,
+        121.53
+      ],
+      "area": 7843.55,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.613
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        38.08,
+        845.29,
+        91.15,
+        124.03
+      ],
+      "area": 11305.33,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6797
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        123.34,
+        855.29,
+        90.66,
+        119.03
+      ],
+      "area": 10791.26,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6594
+    },
+    {
+      "id": 4,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        184.57,
+        851.79,
+        93.88,
+        121.53
+      ],
+      "area": 11409.24,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6129
+    },
+    {
+      "id": 5,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        482.75,
+        842.78,
+        88.68,
+        114.03
+      ],
+      "area": 10112.18,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.7429
+    },
+    {
+      "id": 6,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        609.16,
+        770.76,
+        96.36,
+        124.03
+      ],
+      "area": 11951.53,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6854
+    },
+    {
+      "id": 7,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        667.41,
+        842.78,
+        88.18,
+        126.53
+      ],
+      "area": 11157.42,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6246
+    },
+    {
+      "id": 8,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        718.72,
+        832.28,
+        91.15,
+        119.03
+      ],
+      "area": 10849.58,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.7113
+    },
+    {
+      "id": 9,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        784.65,
+        832.28,
+        99.58,
+        119.03
+      ],
+      "area": 11853.01,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6364
+    },
+    {
+      "id": 10,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        855.54,
+        815.28,
+        93.88,
+        126.53
+      ],
+      "area": 11878.64,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6712
+    },
+    {
+      "id": 11,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        927.67,
+        798.77,
+        96.36,
+        116.53
+      ],
+      "area": 11228.83,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6854
+    },
+    {
+      "id": 12,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        996.57,
+        809.77,
+        96.36,
+        119.03
+      ],
+      "area": 11469.73,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.6649
+    },
+    {
+      "id": 13,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1131.16,
+        811.77,
+        88.18,
+        119.03
+      ],
+      "area": 10496.07,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6863
+    },
+    {
+      "id": 14,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1178.76,
+        816.28,
+        91.9,
+        119.03
+      ],
+      "area": 10938.86,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6553
+    },
+    {
+      "id": 15,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1256.58,
+        810.77,
+        98.34,
+        121.53
+      ],
+      "area": 11951.26,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.683
+    },
+    {
+      "id": 16,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1348.3,
+        813.78,
+        94.13,
+        119.03
+      ],
+      "area": 11204.29,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.656
+    },
+    {
+      "id": 17,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1502.47,
+        808.27,
+        92.89,
+        119.03
+      ],
+      "area": 11056.7,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6385
+    },
+    {
+      "id": 18,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1592.19,
+        793.27,
+        95.37,
+        124.03
+      ],
+      "area": 11828.74,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.6784
+    },
+    {
+      "id": 19,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1682.17,
+        804.77,
+        88.43,
+        119.03
+      ],
+      "area": 10525.82,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.646
+    },
+    {
+      "id": 20,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1763.72,
+        812.27,
+        101.32,
+        124.03
+      ],
+      "area": 12566.72,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6927
+    },
+    {
+      "id": 21,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1815.77,
+        812.77,
+        102.06,
+        121.53
+      ],
+      "area": 12403.35,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.6546
+    },
+    {
+      "id": 22,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1881.7,
+        793.77,
+        94.38,
+        116.53
+      ],
+      "area": 10998.1,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.6235
+    },
+    {
+      "id": 23,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2042.32,
+        786.77,
+        101.81,
+        119.03
+      ],
+      "area": 12118.44,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.658
+    },
+    {
+      "id": 24,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2184.59,
+        776.26,
+        91.4,
+        116.53
+      ],
+      "area": 10650.84,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6684
+    },
+    {
+      "id": 25,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2274.82,
+        768.26,
+        92.64,
+        119.03
+      ],
+      "area": 11026.94,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.6577
+    },
+    {
+      "id": 26,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2348.93,
+        751.25,
+        89.42,
+        121.53
+      ],
+      "area": 10867.21,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.6801
+    },
+    {
+      "id": 27,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2434.69,
+        745.25,
+        88.68,
+        121.53
+      ],
+      "area": 10777.28,
+      "iscrowd": 0,
+      "fault_id": 27,
+      "confidence": "high",
+      "avg_prob": 0.6326
+    },
+    {
+      "id": 28,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2488.72,
+        751.25,
+        97.85,
+        119.03
+      ],
+      "area": 11647.09,
+      "iscrowd": 0,
+      "fault_id": 28,
+      "confidence": "high",
+      "avg_prob": 0.6643
+    },
+    {
+      "id": 29,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2640.67,
+        743.25,
+        59.33,
+        111.53
+      ],
+      "area": 6617.07,
+      "iscrowd": 0,
+      "fault_id": 29,
+      "confidence": "high",
+      "avg_prob": 0.699
+    },
+    {
+      "id": 30,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        853.95,
+        164.64,
+        133.13
+      ],
+      "area": 21918.52,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7604
+    },
+    {
+      "id": 31,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        140.84,
+        843.04,
+        334.09,
+        133.13
+      ],
+      "area": 44477.4,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6775
+    },
+    {
+      "id": 32,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        453.09,
+        824.49,
+        167.04,
+        111.3
+      ],
+      "area": 18591.55,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7635
+    },
+    {
+      "id": 33,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        1367.36,
+        813.03,
+        252.42,
+        116.76
+      ],
+      "area": 29472.56,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7822
+    },
+    {
+      "id": 34,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        1844.91,
+        817.94,
+        170.76,
+        127.67
+      ],
+      "area": 21800.93,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6762
+    },
+    {
+      "id": 35,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        2266.56,
+        829.4,
+        148.48,
+        133.13
+      ],
+      "area": 19767.14,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.7031
+    },
+    {
+      "id": 36,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        91.72,
+        833.22,
+        94.77,
+        130.4
+      ],
+      "area": 12358.01,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.5976
+    },
+    {
+      "id": 37,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        162.56,
+        818.48,
+        88.58,
+        127.67
+      ],
+      "area": 11309.01,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6168
+    },
+    {
+      "id": 38,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        228.02,
+        820.12,
+        89.18,
+        127.67
+      ],
+      "area": 11385.61,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6961
+    },
+    {
+      "id": 39,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        308.85,
+        829.4,
+        87.98,
+        130.4
+      ],
+      "area": 11472.59,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6554
+    },
+    {
+      "id": 40,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        352.56,
+        826.12,
+        92.57,
+        133.13
+      ],
+      "area": 12323.84,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6446
+    },
+    {
+      "id": 41,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        401.85,
+        831.58,
+        91.18,
+        127.67
+      ],
+      "area": 11640.95,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6576
+    },
+    {
+      "id": 42,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        475.69,
+        837.58,
+        92.97,
+        124.95
+      ],
+      "area": 11616.6,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6996
+    },
+    {
+      "id": 43,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        514.81,
+        839.76,
+        96.17,
+        124.95
+      ],
+      "area": 12016.44,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6752
+    },
+    {
+      "id": 44,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        569.09,
+        846.86,
+        93.77,
+        127.67
+      ],
+      "area": 11971.62,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6206
+    },
+    {
+      "id": 45,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        802.79,
+        842.49,
+        91.97,
+        133.13
+      ],
+      "area": 12243.97,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.7109
+    },
+    {
+      "id": 46,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        873.04,
+        693.53,
+        91.18,
+        133.13
+      ],
+      "area": 12138.79,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.633
+    },
+    {
+      "id": 47,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        919.14,
+        856.13,
+        94.17,
+        127.67
+      ],
+      "area": 12022.68,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.644
+    },
+    {
+      "id": 48,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        969.23,
+        862.68,
+        85.19,
+        127.67
+      ],
+      "area": 10876.21,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.7077
+    },
+    {
+      "id": 49,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1038.68,
+        867.59,
+        91.58,
+        130.4
+      ],
+      "area": 11942.03,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6364
+    },
+    {
+      "id": 50,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1085.38,
+        850.13,
+        86.59,
+        122.22
+      ],
+      "area": 10583.03,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.6278
+    },
+    {
+      "id": 51,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1153.84,
+        867.59,
+        92.57,
+        127.67
+      ],
+      "area": 11818.41,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6763
+    },
+    {
+      "id": 52,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1198.34,
+        880.14,
+        91.77,
+        124.95
+      ],
+      "area": 11466.66,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6482
+    },
+    {
+      "id": 53,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1287.15,
+        812.48,
+        90.58,
+        138.59
+      ],
+      "area": 12553.48,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.6252
+    },
+    {
+      "id": 54,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1362.99,
+        879.6,
+        91.77,
+        127.67
+      ],
+      "area": 11716.28,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.6586
+    },
+    {
+      "id": 55,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1430.04,
+        876.32,
+        91.38,
+        133.13
+      ],
+      "area": 12165.42,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6732
+    },
+    {
+      "id": 56,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1480.53,
+        874.14,
+        91.18,
+        127.67
+      ],
+      "area": 11640.95,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.6479
+    },
+    {
+      "id": 57,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1547.99,
+        869.78,
+        92.77,
+        130.4
+      ],
+      "area": 12097.21,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.6513
+    },
+    {
+      "id": 58,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1586.11,
+        868.68,
+        103.55,
+        130.4
+      ],
+      "area": 13502.92,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.659
+    },
+    {
+      "id": 59,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1642.39,
+        865.41,
+        88.38,
+        127.67
+      ],
+      "area": 11283.47,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6654
+    },
+    {
+      "id": 60,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1692.88,
+        862.68,
+        88.98,
+        124.95
+      ],
+      "area": 11118.05,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.7063
+    },
+    {
+      "id": 61,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1739.58,
+        853.41,
+        88.58,
+        127.67
+      ],
+      "area": 11309.01,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.6903
+    },
+    {
+      "id": 62,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1778.29,
+        850.13,
+        91.58,
+        127.67
+      ],
+      "area": 11692.02,
+      "iscrowd": 0,
+      "fault_id": 27,
+      "confidence": "high",
+      "avg_prob": 0.6968
+    },
+    {
+      "id": 63,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1835.17,
+        858.32,
+        87.78,
+        130.4
+      ],
+      "area": 11446.51,
+      "iscrowd": 0,
+      "fault_id": 28,
+      "confidence": "high",
+      "avg_prob": 0.6852
+    },
+    {
+      "id": 64,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1905.62,
+        852.86,
+        88.58,
+        133.13
+      ],
+      "area": 11792.66,
+      "iscrowd": 0,
+      "fault_id": 29,
+      "confidence": "high",
+      "avg_prob": 0.688
+    },
+    {
+      "id": 65,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1956.11,
+        885.05,
+        87.98,
+        127.67
+      ],
+      "area": 11232.41,
+      "iscrowd": 0,
+      "fault_id": 30,
+      "confidence": "high",
+      "avg_prob": 0.6366
+    },
+    {
+      "id": 66,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1999.42,
+        885.6,
+        91.18,
+        130.4
+      ],
+      "area": 11889.87,
+      "iscrowd": 0,
+      "fault_id": 31,
+      "confidence": "high",
+      "avg_prob": 0.6244
+    },
+    {
+      "id": 67,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2068.27,
+        865.41,
+        89.18,
+        133.13
+      ],
+      "area": 11872.53,
+      "iscrowd": 0,
+      "fault_id": 32,
+      "confidence": "high",
+      "avg_prob": 0.6867
+    },
+    {
+      "id": 68,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2120.16,
+        870.87,
+        86.19,
+        130.4
+      ],
+      "area": 11239.18,
+      "iscrowd": 0,
+      "fault_id": 33,
+      "confidence": "high",
+      "avg_prob": 0.6699
+    },
+    {
+      "id": 69,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2175.64,
+        879.05,
+        90.98,
+        130.4
+      ],
+      "area": 11863.79,
+      "iscrowd": 0,
+      "fault_id": 34,
+      "confidence": "high",
+      "avg_prob": 0.6894
+    },
+    {
+      "id": 70,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2225.33,
+        892.69,
+        93.77,
+        130.4
+      ],
+      "area": 12227.61,
+      "iscrowd": 0,
+      "fault_id": 35,
+      "confidence": "high",
+      "avg_prob": 0.6274
+    },
+    {
+      "id": 71,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2340.49,
+        886.69,
+        93.57,
+        130.4
+      ],
+      "area": 12201.53,
+      "iscrowd": 0,
+      "fault_id": 36,
+      "confidence": "high",
+      "avg_prob": 0.6383
+    },
+    {
+      "id": 72,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2400.36,
+        889.42,
+        88.78,
+        130.4
+      ],
+      "area": 11576.91,
+      "iscrowd": 0,
+      "fault_id": 37,
+      "confidence": "high",
+      "avg_prob": 0.65
+    },
+    {
+      "id": 73,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2545.65,
+        889.96,
+        93.37,
+        130.4
+      ],
+      "area": 12175.45,
+      "iscrowd": 0,
+      "fault_id": 38,
+      "confidence": "high",
+      "avg_prob": 0.6493
+    },
+    {
+      "id": 74,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2602.92,
+        952.71,
+        91.77,
+        122.22
+      ],
+      "area": 11216.13,
+      "iscrowd": 0,
+      "fault_id": 39,
+      "confidence": "high",
+      "avg_prob": 0.6721
+    },
+    {
+      "id": 75,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        2644.23,
+        920.52,
+        55.77,
+        138.59
+      ],
+      "area": 7729.16,
+      "iscrowd": 0,
+      "fault_id": 40,
+      "confidence": "high",
+      "avg_prob": 0.5995
+    },
+    {
+      "id": 76,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        383.36,
+        801.57,
+        1658.47,
+        127.67
+      ],
+      "area": 211736.86,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7325
+    },
+    {
+      "id": 77,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        2092.67,
+        826.12,
+        607.33,
+        119.49
+      ],
+      "area": 72569.86,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.706
+    },
+    {
+      "id": 78,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        835.4,
+        60.9,
+        127.67
+      ],
+      "area": 7775.1,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6447
+    },
+    {
+      "id": 79,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        14.35,
+        837.58,
+        92.12,
+        130.4
+      ],
+      "area": 12012.45,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6966
+    },
+    {
+      "id": 80,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        143.12,
+        843.58,
+        95.05,
+        130.4
+      ],
+      "area": 12394.52,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6839
+    },
+    {
+      "id": 81,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        345.48,
+        844.68,
+        87.73,
+        127.67
+      ],
+      "area": 11200.49,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7493
+    },
+    {
+      "id": 82,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        383.52,
+        816.3,
+        97.56,
+        127.67
+      ],
+      "area": 12455.49,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.725
+    },
+    {
+      "id": 83,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        431.39,
+        815.21,
+        87.73,
+        130.4
+      ],
+      "area": 11439.99,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.7213
+    },
+    {
+      "id": 84,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        661.76,
+        816.3,
+        94.21,
+        127.67
+      ],
+      "area": 12027.79,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6602
+    },
+    {
+      "id": 85,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        769.83,
+        820.67,
+        86.9,
+        127.67
+      ],
+      "area": 11094.52,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6821
+    },
+    {
+      "id": 86,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        904.25,
+        810.3,
+        94.63,
+        130.4
+      ],
+      "area": 12339.75,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6887
+    },
+    {
+      "id": 87,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        985.77,
+        827.76,
+        94.84,
+        122.22
+      ],
+      "area": 11591.34,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.7734
+    },
+    {
+      "id": 88,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1035.32,
+        831.58,
+        94.01,
+        133.13
+      ],
+      "area": 12515.55,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6837
+    },
+    {
+      "id": 89,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1101.79,
+        832.13,
+        88.99,
+        130.4
+      ],
+      "area": 11604.3,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.6955
+    },
+    {
+      "id": 90,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1502.95,
+        829.4,
+        91.71,
+        127.67
+      ],
+      "area": 11708.62,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.678
+    },
+    {
+      "id": 91,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1598.27,
+        828.31,
+        86.06,
+        130.4
+      ],
+      "area": 11222.22,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6789
+    },
+    {
+      "id": 92,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1657.85,
+        837.04,
+        89.2,
+        130.4
+      ],
+      "area": 11631.68,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.69
+    },
+    {
+      "id": 93,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1704.46,
+        838.67,
+        99.02,
+        127.67
+      ],
+      "area": 12641.88,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6539
+    },
+    {
+      "id": 94,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1768.64,
+        844.68,
+        88.15,
+        127.67
+      ],
+      "area": 11254.11,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6414
+    },
+    {
+      "id": 95,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1817.14,
+        847.4,
+        90.87,
+        133.13
+      ],
+      "area": 12097.52,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.7051
+    },
+    {
+      "id": 96,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1861.66,
+        743.18,
+        92.75,
+        130.4
+      ],
+      "area": 12094.6,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.6879
+    },
+    {
+      "id": 97,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1914.55,
+        799.39,
+        94.01,
+        130.4
+      ],
+      "area": 12258.9,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6884
+    },
+    {
+      "id": 98,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        1962.84,
+        809.21,
+        90.24,
+        124.95
+      ],
+      "area": 11275.49,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.7127
+    },
+    {
+      "id": 99,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2047.71,
+        815.21,
+        90.24,
+        130.4
+      ],
+      "area": 11767.3,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.6799
+    },
+    {
+      "id": 100,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2133.84,
+        821.76,
+        91.92,
+        130.4
+      ],
+      "area": 11986.37,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.6686
+    },
+    {
+      "id": 101,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2182.96,
+        822.85,
+        94.63,
+        127.67
+      ],
+      "area": 12081.41,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6983
+    },
+    {
+      "id": 102,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2275.36,
+        824.49,
+        90.87,
+        124.95
+      ],
+      "area": 11354.21,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.7497
+    },
+    {
+      "id": 103,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2329.29,
+        816.85,
+        88.78,
+        127.67
+      ],
+      "area": 11334.54,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.7313
+    },
+    {
+      "id": 104,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2373.61,
+        816.85,
+        91.71,
+        130.4
+      ],
+      "area": 11958.98,
+      "iscrowd": 0,
+      "fault_id": 27,
+      "confidence": "high",
+      "avg_prob": 0.7431
+    },
+    {
+      "id": 105,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2447.61,
+        816.3,
+        89.83,
+        127.67
+      ],
+      "area": 11468.6,
+      "iscrowd": 0,
+      "fault_id": 28,
+      "confidence": "high",
+      "avg_prob": 0.7138
+    },
+    {
+      "id": 106,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2493.81,
+        815.21,
+        91.5,
+        130.4
+      ],
+      "area": 11931.6,
+      "iscrowd": 0,
+      "fault_id": 29,
+      "confidence": "high",
+      "avg_prob": 0.7454
+    },
+    {
+      "id": 107,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2562.17,
+        821.76,
+        89.83,
+        127.67
+      ],
+      "area": 11468.6,
+      "iscrowd": 0,
+      "fault_id": 30,
+      "confidence": "high",
+      "avg_prob": 0.7446
+    },
+    {
+      "id": 108,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2601.47,
+        827.21,
+        95.26,
+        130.4
+      ],
+      "area": 12421.9,
+      "iscrowd": 0,
+      "fault_id": 31,
+      "confidence": "high",
+      "avg_prob": 0.7216
+    },
+    {
+      "id": 109,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        2652.27,
+        832.67,
+        47.73,
+        122.22
+      ],
+      "area": 5833.56,
+      "iscrowd": 0,
+      "fault_id": 32,
+      "confidence": "high",
+      "avg_prob": 0.7359
+    },
+    {
+      "id": 110,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        835.4,
+        627.21,
+        127.67
+      ],
+      "area": 80075.9,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6849
+    },
+    {
+      "id": 111,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        567.31,
+        835.94,
+        1362.77,
+        130.4
+      ],
+      "area": 177705.21,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6133
+    },
+    {
+      "id": 112,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        1760.07,
+        836.49,
+        853.61,
+        130.4
+      ],
+      "area": 111310.74,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6366
+    },
+    {
+      "id": 113,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        18.31,
+        359.5,
+        337.12,
+        144.05
+      ],
+      "area": 48562.14,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.694
+    },
+    {
+      "id": 114,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        527.03,
+        174.75,
+        376.02,
+        160.73
+      ],
+      "area": 60437.69,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6075
+    },
+    {
+      "id": 115,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        998.01,
+        510.9,
+        213.94,
+        150.72
+      ],
+      "area": 32245.04,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7241
+    },
+    {
+      "id": 116,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        1525.04,
+        468.88,
+        298.22,
+        184.07
+      ],
+      "area": 54893.36,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.5502
+    },
+    {
+      "id": 117,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        1997.54,
+        789.69,
+        401.95,
+        147.39
+      ],
+      "area": 59243.41,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6386
+    },
+    {
+      "id": 118,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        341.01,
+        251.29,
+        553.32,
+        191.24
+      ],
+      "area": 105816.92,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7292
+    },
+    {
+      "id": 119,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        1261.23,
+        269.3,
+        817.4,
+        186.95
+      ],
+      "area": 152812.93,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7113
+    },
+    {
+      "id": 120,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        2189.59,
+        316.47,
+        510.41,
+        182.66
+      ],
+      "area": 93231.49,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6931
+    },
+    {
+      "id": 121,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        1153.7,
+        898.69,
+        167.05,
+        127.67
+      ],
+      "area": 21327.27,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7257
+    },
+    {
+      "id": 122,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        1458.54,
+        857.77,
+        242.98,
+        138.59
+      ],
+      "area": 33674.6,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6609
+    },
+    {
+      "id": 123,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        1768.96,
+        867.59,
+        224.0,
+        127.67
+      ],
+      "area": 28598.08,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7227
+    },
+    {
+      "id": 124,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        2078.71,
+        781.38,
+        216.4,
+        135.86
+      ],
+      "area": 29400.1,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6615
+    },
+    {
+      "id": 125,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        2294.0,
+        671.7,
+        315.11,
+        124.95
+      ],
+      "area": 39372.99,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6448
+    },
+    {
+      "id": 126,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        2497.44,
+        490.55,
+        202.56,
+        122.22
+      ],
+      "area": 24756.88,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.751
+    },
+    {
+      "id": 127,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        819.58,
+        77.19,
+        127.67
+      ],
+      "area": 9854.85,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6647
+    },
+    {
+      "id": 128,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        66.99,
+        772.1,
+        94.97,
+        130.4
+      ],
+      "area": 12384.09,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7097
+    },
+    {
+      "id": 129,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        151.51,
+        803.75,
+        93.77,
+        130.4
+      ],
+      "area": 12227.61,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6963
+    },
+    {
+      "id": 130,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        206.09,
+        803.75,
+        89.18,
+        130.4
+      ],
+      "area": 11629.07,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7269
+    },
+    {
+      "id": 131,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        400.26,
+        821.21,
+        94.01,
+        133.13
+      ],
+      "area": 12515.55,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6763
+    },
+    {
+      "id": 132,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        493.24,
+        816.3,
+        99.8,
+        130.4
+      ],
+      "area": 13013.92,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6836
+    },
+    {
+      "id": 133,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        551.68,
+        824.49,
+        92.56,
+        130.4
+      ],
+      "area": 12069.82,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6905
+    },
+    {
+      "id": 134,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        604.33,
+        820.12,
+        94.01,
+        127.67
+      ],
+      "area": 12002.26,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.676
+    },
+    {
+      "id": 135,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        681.85,
+        803.75,
+        93.52,
+        130.4
+      ],
+      "area": 12195.01,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6767
+    },
+    {
+      "id": 136,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        733.53,
+        811.94,
+        94.49,
+        127.67
+      ],
+      "area": 12063.54,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6749
+    },
+    {
+      "id": 137,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        800.19,
+        821.21,
+        97.87,
+        127.67
+      ],
+      "area": 12495.06,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.696
+    },
+    {
+      "id": 138,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        847.52,
+        829.4,
+        101.74,
+        127.67
+      ],
+      "area": 12989.15,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.6749
+    },
+    {
+      "id": 139,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1016.82,
+        835.94,
+        87.73,
+        130.4
+      ],
+      "area": 11439.99,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6599
+    },
+    {
+      "id": 140,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1101.1,
+        835.4,
+        95.21,
+        133.13
+      ],
+      "area": 12675.31,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6683
+    },
+    {
+      "id": 141,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1187.8,
+        858.86,
+        92.8,
+        127.67
+      ],
+      "area": 11847.78,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.7237
+    },
+    {
+      "id": 142,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1267.98,
+        861.04,
+        92.56,
+        127.67
+      ],
+      "area": 11817.14,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6601
+    },
+    {
+      "id": 143,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1327.39,
+        863.23,
+        90.87,
+        130.4
+      ],
+      "area": 11849.45,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6889
+    },
+    {
+      "id": 144,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1408.29,
+        857.23,
+        91.83,
+        127.67
+      ],
+      "area": 11723.94,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.726
+    },
+    {
+      "id": 145,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1487.02,
+        863.23,
+        92.08,
+        127.67
+      ],
+      "area": 11755.85,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.6774
+    },
+    {
+      "id": 146,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1546.19,
+        861.59,
+        91.83,
+        127.67
+      ],
+      "area": 11723.94,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6284
+    },
+    {
+      "id": 147,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1596.66,
+        852.86,
+        91.83,
+        116.76
+      ],
+      "area": 10722.07,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.6609
+    },
+    {
+      "id": 148,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1653.18,
+        857.77,
+        102.46,
+        124.95
+      ],
+      "area": 12802.38,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.667
+    },
+    {
+      "id": 149,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1756.78,
+        875.23,
+        92.08,
+        124.95
+      ],
+      "area": 11505.4,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.6882
+    },
+    {
+      "id": 150,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1848.31,
+        879.6,
+        90.63,
+        127.67
+      ],
+      "area": 11570.73,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6861
+    },
+    {
+      "id": 151,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1919.07,
+        875.78,
+        97.63,
+        130.4
+      ],
+      "area": 12730.95,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.688
+    },
+    {
+      "id": 152,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2015.91,
+        884.51,
+        96.18,
+        130.4
+      ],
+      "area": 12541.87,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.6555
+    },
+    {
+      "id": 153,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2153.09,
+        896.51,
+        91.35,
+        130.4
+      ],
+      "area": 11912.04,
+      "iscrowd": 0,
+      "fault_id": 27,
+      "confidence": "high",
+      "avg_prob": 0.6932
+    },
+    {
+      "id": 154,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2215.39,
+        894.33,
+        94.73,
+        130.4
+      ],
+      "area": 12352.79,
+      "iscrowd": 0,
+      "fault_id": 28,
+      "confidence": "high",
+      "avg_prob": 0.7235
+    },
+    {
+      "id": 155,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2292.67,
+        893.24,
+        97.39,
+        130.4
+      ],
+      "area": 12699.66,
+      "iscrowd": 0,
+      "fault_id": 29,
+      "confidence": "high",
+      "avg_prob": 0.653
+    },
+    {
+      "id": 156,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2368.51,
+        891.06,
+        93.52,
+        133.13
+      ],
+      "area": 12450.32,
+      "iscrowd": 0,
+      "fault_id": 30,
+      "confidence": "high",
+      "avg_prob": 0.6805
+    },
+    {
+      "id": 157,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2437.09,
+        885.6,
+        88.69,
+        127.67
+      ],
+      "area": 11323.05,
+      "iscrowd": 0,
+      "fault_id": 31,
+      "confidence": "high",
+      "avg_prob": 0.6765
+    },
+    {
+      "id": 158,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2500.13,
+        888.87,
+        91.83,
+        124.95
+      ],
+      "area": 11474.16,
+      "iscrowd": 0,
+      "fault_id": 32,
+      "confidence": "high",
+      "avg_prob": 0.7036
+    },
+    {
+      "id": 159,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        2573.06,
+        890.51,
+        90.87,
+        130.4
+      ],
+      "area": 11849.45,
+      "iscrowd": 0,
+      "fault_id": 33,
+      "confidence": "high",
+      "avg_prob": 0.6723
+    },
+    {
+      "id": 160,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        162.71,
+        876.32,
+        518.64,
+        124.95
+      ],
+      "area": 64804.07,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.8102
+    },
+    {
+      "id": 161,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        1712.54,
+        889.42,
+        968.14,
+        130.4
+      ],
+      "area": 126245.46,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.746
+    },
+    {
+      "id": 162,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        343.06,
+        81.86,
+        195.53
+      ],
+      "area": 16006.09,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6166
+    },
+    {
+      "id": 163,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        278.55,
+        197.26,
+        201.63,
+        182.66
+      ],
+      "area": 36829.74,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7148
+    },
+    {
+      "id": 164,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        505.29,
+        173.25,
+        127.5,
+        165.51
+      ],
+      "area": 21102.52,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.634
+    },
+    {
+      "id": 165,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        782.44,
+        218.7,
+        160.12,
+        178.37
+      ],
+      "area": 28560.6,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.684
+    },
+    {
+      "id": 166,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        1236.28,
+        162.96,
+        139.36,
+        186.95
+      ],
+      "area": 26053.35,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6669
+    },
+    {
+      "id": 167,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        1418.9,
+        192.97,
+        177.91,
+        195.53
+      ],
+      "area": 34786.74,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.65
+    },
+    {
+      "id": 168,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        2032.67,
+        186.97,
+        255.0,
+        182.66
+      ],
+      "area": 46578.3,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6456
+    },
+    {
+      "id": 169,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        1113.16,
+        193.88,
+        489.32,
+        138.05
+      ],
+      "area": 67550.63,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6691
+    },
+    {
+      "id": 170,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        2067.39,
+        237.7,
+        632.61,
+        141.05
+      ],
+      "area": 89229.64,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.788
+    },
+    {
+      "id": 171,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        71.08,
+        133.26,
+        425.56,
+        135.04
+      ],
+      "area": 57467.62,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.616
+    },
+    {
+      "id": 172,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        721.94,
+        75.03,
+        417.96,
+        171.06
+      ],
+      "area": 71496.24,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6776
+    },
+    {
+      "id": 173,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        1272.67,
+        124.85,
+        326.77,
+        135.04
+      ],
+      "area": 44127.02,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7175
+    },
+    {
+      "id": 174,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        1931.13,
+        165.67,
+        493.96,
+        138.05
+      ],
+      "area": 68191.18,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6797
+    },
+    {
+      "id": 175,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        494.73,
+        188.13,
+        2205.27,
+        234.14
+      ],
+      "area": 516341.92,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6177
+    },
+    {
+      "id": 176,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        35.03,
+        348.83,
+        388.6,
+        157.39
+      ],
+      "area": 61161.75,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6825
+    },
+    {
+      "id": 177,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        839.84,
+        708.99,
+        181.68,
+        144.05
+      ],
+      "area": 26171.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6608
+    },
+    {
+      "id": 178,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        1304.43,
+        110.72,
+        333.08,
+        177.4
+      ],
+      "area": 59088.39,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7702
+    },
+    {
+      "id": 179,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        1817.12,
+        253.45,
+        247.29,
+        154.06
+      ],
+      "area": 38097.5,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6515
+    },
+    {
+      "id": 180,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        175.48,
+        175.59,
+        162.52,
+        162.82
+      ],
+      "area": 26461.51,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6447
+    },
+    {
+      "id": 181,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        685.87,
+        356.43,
+        267.38,
+        174.08
+      ],
+      "area": 46545.51,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6937
+    },
+    {
+      "id": 182,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        1318.39,
+        432.97,
+        288.35,
+        181.58
+      ],
+      "area": 52358.59,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6949
+    },
+    {
+      "id": 183,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        1651.76,
+        421.72,
+        440.39,
+        181.58
+      ],
+      "area": 79966.02,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6519
+    },
+    {
+      "id": 184,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        2264.55,
+        284.4,
+        246.41,
+        162.82
+      ],
+      "area": 40120.48,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6839
+    },
+    {
+      "id": 185,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        1080.0,
+        1189.68,
+        596.38,
+        141.05
+      ],
+      "area": 84119.4,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7233
+    },
+    {
+      "id": 186,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        10.63,
+        666.25,
+        124.43,
+        127.67
+      ],
+      "area": 15885.98,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6449
+    },
+    {
+      "id": 187,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        486.88,
+        660.79,
+        110.38,
+        133.13
+      ],
+      "area": 14694.89,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7171
+    },
+    {
+      "id": 188,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        622.73,
+        606.22,
+        119.74,
+        127.67
+      ],
+      "area": 15287.21,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7199
+    },
+    {
+      "id": 189,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        820.22,
+        560.39,
+        166.7,
+        127.67
+      ],
+      "area": 21282.59,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6591
+    },
+    {
+      "id": 190,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        993.96,
+        444.17,
+        159.65,
+        133.13
+      ],
+      "area": 21254.2,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.639
+    },
+    {
+      "id": 191,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        1418.41,
+        428.89,
+        108.31,
+        124.95
+      ],
+      "area": 13533.33,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6878
+    },
+    {
+      "id": 192,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        1645.0,
+        461.08,
+        126.78,
+        135.86
+      ],
+      "area": 17224.33,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6718
+    },
+    {
+      "id": 193,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        1944.28,
+        469.27,
+        145.57,
+        135.86
+      ],
+      "area": 19777.14,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6514
+    },
+    {
+      "id": 194,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        2141.41,
+        447.99,
+        106.24,
+        127.67
+      ],
+      "area": 13563.66,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6673
+    },
+    {
+      "id": 195,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        2420.33,
+        469.27,
+        129.13,
+        133.13
+      ],
+      "area": 17191.08,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6845
+    },
+    {
+      "id": 196,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        2629.62,
+        771.01,
+        70.38,
+        122.22
+      ],
+      "area": 8601.84,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.8385
+    },
+    {
+      "id": 197,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        751.51,
+        429.29,
+        132.04
+      ],
+      "area": 56683.45,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7346
+    },
+    {
+      "id": 198,
+      "image_id": 20,
+      "category_id": 1,
+      "bbox": [
+        1189.58,
+        833.14,
+        806.61,
+        141.05
+      ],
+      "area": 113772.34,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7457
+    },
+    {
+      "id": 199,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        870.87,
+        67.76,
+        127.67
+      ],
+      "area": 8650.92,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6692
+    },
+    {
+      "id": 200,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        195.4,
+        852.31,
+        118.75,
+        124.95
+      ],
+      "area": 14837.81,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6657
+    },
+    {
+      "id": 201,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        402.27,
+        811.94,
+        133.97,
+        127.67
+      ],
+      "area": 17103.95,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.712
+    },
+    {
+      "id": 202,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        651.22,
+        840.86,
+        149.19,
+        133.13
+      ],
+      "area": 19861.66,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6586
+    },
+    {
+      "id": 203,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        1069.07,
+        744.28,
+        200.96,
+        130.4
+      ],
+      "area": 26205.18,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6895
+    },
+    {
+      "id": 204,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        1282.21,
+        580.58,
+        185.73,
+        133.13
+      ],
+      "area": 24726.23,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6282
+    },
+    {
+      "id": 205,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        1560.36,
+        725.18,
+        146.15,
+        133.13
+      ],
+      "area": 19456.95,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6125
+    },
+    {
+      "id": 206,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        1831.88,
+        749.73,
+        143.1,
+        127.67
+      ],
+      "area": 18269.58,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.7135
+    },
+    {
+      "id": 207,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        1981.79,
+        825.03,
+        243.58,
+        130.4
+      ],
+      "area": 31762.83,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6383
+    },
+    {
+      "id": 208,
+      "image_id": 21,
+      "category_id": 1,
+      "bbox": [
+        2599.88,
+        845.22,
+        100.12,
+        124.95
+      ],
+      "area": 12509.99,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.7579
+    },
+    {
+      "id": 209,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        106.37,
+        700.74,
+        95.52,
+        124.03
+      ],
+      "area": 11847.35,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6946
+    },
+    {
+      "id": 210,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        235.4,
+        721.24,
+        116.87,
+        121.53
+      ],
+      "area": 14203.21,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.616
+    },
+    {
+      "id": 211,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        435.69,
+        786.27,
+        99.96,
+        114.03
+      ],
+      "area": 11398.44,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6584
+    },
+    {
+      "id": 212,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        767.23,
+        820.78,
+        101.62,
+        119.03
+      ],
+      "area": 12095.83,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.726
+    },
+    {
+      "id": 213,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        915.81,
+        832.78,
+        109.38,
+        121.53
+      ],
+      "area": 13292.95,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6245
+    },
+    {
+      "id": 214,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        1230.72,
+        867.29,
+        107.17,
+        121.53
+      ],
+      "area": 13024.37,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6525
+    },
+    {
+      "id": 215,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        1568.33,
+        811.27,
+        162.11,
+        141.54
+      ],
+      "area": 22945.05,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.7197
+    },
+    {
+      "id": 216,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        1724.15,
+        596.7,
+        101.62,
+        119.03
+      ],
+      "area": 12095.83,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6319
+    },
+    {
+      "id": 217,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        1844.46,
+        734.25,
+        111.05,
+        116.53
+      ],
+      "area": 12940.66,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.642
+    },
+    {
+      "id": 218,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        2016.88,
+        741.75,
+        101.62,
+        124.03
+      ],
+      "area": 12603.93,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.7011
+    },
+    {
+      "id": 219,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        2146.06,
+        765.26,
+        109.38,
+        119.03
+      ],
+      "area": 13019.5,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6662
+    },
+    {
+      "id": 220,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        2260.13,
+        788.27,
+        116.87,
+        119.03
+      ],
+      "area": 13911.04,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.6014
+    },
+    {
+      "id": 221,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        2402.72,
+        797.27,
+        133.84,
+        116.53
+      ],
+      "area": 15596.38,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6515
+    },
+    {
+      "id": 222,
+      "image_id": 22,
+      "category_id": 1,
+      "bbox": [
+        2618.97,
+        797.77,
+        81.03,
+        114.03
+      ],
+      "area": 9239.85,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6698
+    },
+    {
+      "id": 223,
+      "image_id": 23,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        946.99,
+        782.62,
+        107.6
+      ],
+      "area": 84209.91,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7154
+    },
+    {
+      "id": 224,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        644.22,
+        601.13,
+        116.53
+      ],
+      "area": 70049.68,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.8189
+    },
+    {
+      "id": 225,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        1985.34,
+        661.72,
+        714.66,
+        114.03
+      ],
+      "area": 81492.68,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7665
+    },
+    {
+      "id": 226,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        104.78,
+        496.17,
+        100.43,
+        124.03
+      ],
+      "area": 12456.33,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.5541
+    },
+    {
+      "id": 227,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        216.96,
+        497.17,
+        103.91,
+        124.03
+      ],
+      "area": 12887.96,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.5537
+    },
+    {
+      "id": 228,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        376.09,
+        495.67,
+        99.57,
+        124.03
+      ],
+      "area": 12349.67,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.5691
+    },
+    {
+      "id": 229,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        1496.52,
+        616.71,
+        100.0,
+        124.03
+      ],
+      "area": 12403.0,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.5516
+    },
+    {
+      "id": 230,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        1797.83,
+        499.17,
+        99.57,
+        129.04
+      ],
+      "area": 12848.51,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.5649
+    },
+    {
+      "id": 231,
+      "image_id": 25,
+      "category_id": 1,
+      "bbox": [
+        2613.48,
+        740.25,
+        86.52,
+        126.53
+      ],
+      "area": 10947.38,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.7125
+    },
+    {
+      "id": 232,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        614.71,
+        77.51,
+        116.53
+      ],
+      "area": 9032.24,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6842
+    },
+    {
+      "id": 233,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        218.01,
+        618.21,
+        170.9,
+        124.03
+      ],
+      "area": 21196.73,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.721
+    },
+    {
+      "id": 234,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        415.38,
+        618.71,
+        112.26,
+        121.53
+      ],
+      "area": 13642.96,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7354
+    },
+    {
+      "id": 235,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        797.02,
+        616.71,
+        135.19,
+        121.53
+      ],
+      "area": 16429.64,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7224
+    },
+    {
+      "id": 236,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        1048.79,
+        616.71,
+        178.55,
+        121.53
+      ],
+      "area": 21699.18,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.7136
+    },
+    {
+      "id": 237,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        1264.55,
+        617.21,
+        145.39,
+        126.53
+      ],
+      "area": 18396.2,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.7235
+    },
+    {
+      "id": 238,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        1565.68,
+        617.21,
+        140.29,
+        124.03
+      ],
+      "area": 17400.17,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6693
+    },
+    {
+      "id": 239,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        1705.22,
+        618.71,
+        165.8,
+        121.53
+      ],
+      "area": 20149.67,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.7045
+    },
+    {
+      "id": 240,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        2084.53,
+        741.75,
+        119.88,
+        124.03
+      ],
+      "area": 14868.72,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.706
+    },
+    {
+      "id": 241,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        2518.21,
+        741.25,
+        106.26,
+        121.53
+      ],
+      "area": 12913.78,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.7329
+    },
+    {
+      "id": 242,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        828.53,
+        796.27,
+        1215.0,
+        121.53
+      ],
+      "area": 147658.95,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7238
+    },
+    {
+      "id": 243,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        80.64,
+        761.76,
+        107.36,
+        119.03
+      ],
+      "area": 12779.06,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6802
+    },
+    {
+      "id": 244,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        217.39,
+        781.26,
+        141.65,
+        119.03
+      ],
+      "area": 16860.6,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.712
+    },
+    {
+      "id": 245,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        418.91,
+        774.76,
+        107.98,
+        124.03
+      ],
+      "area": 13392.76,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7216
+    },
+    {
+      "id": 246,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        527.69,
+        795.77,
+        131.08,
+        119.03
+      ],
+      "area": 15602.45,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7029
+    },
+    {
+      "id": 247,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        743.51,
+        835.28,
+        111.71,
+        119.03
+      ],
+      "area": 13296.84,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.7121
+    },
+    {
+      "id": 248,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        935.73,
+        908.81,
+        128.97,
+        124.03
+      ],
+      "area": 15996.15,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6477
+    },
+    {
+      "id": 249,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        1117.85,
+        948.82,
+        112.34,
+        119.03
+      ],
+      "area": 13371.83,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.7046
+    },
+    {
+      "id": 250,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        1356.02,
+        1079.36,
+        109.85,
+        119.03
+      ],
+      "area": 13075.45,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.671
+    },
+    {
+      "id": 251,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        1500.23,
+        988.83,
+        131.08,
+        124.03
+      ],
+      "area": 16257.85,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6471
+    },
+    {
+      "id": 252,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        1672.36,
+        1028.35,
+        164.91,
+        121.53
+      ],
+      "area": 20041.51,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6281
+    },
+    {
+      "id": 253,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        1948.95,
+        1121.88,
+        124.74,
+        124.03
+      ],
+      "area": 15471.5,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6504
+    },
+    {
+      "id": 254,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        2078.79,
+        1128.38,
+        148.0,
+        114.03
+      ],
+      "area": 16876.44,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.7439
+    },
+    {
+      "id": 255,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        2225.96,
+        1126.88,
+        112.34,
+        119.03
+      ],
+      "area": 13371.83,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.71
+    },
+    {
+      "id": 256,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        2421.42,
+        1130.88,
+        126.85,
+        116.53
+      ],
+      "area": 14781.83,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.659
+    },
+    {
+      "id": 257,
+      "image_id": 29,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        238.58,
+        2278.31,
+        129.04
+      ],
+      "area": 293993.12,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7492
+    },
+    {
+      "id": 258,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        529.2,
+        332.61,
+        288.51,
+        126.53
+      ],
+      "area": 36505.17,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6904
+    },
+    {
+      "id": 259,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        801.05,
+        335.12,
+        361.95,
+        119.03
+      ],
+      "area": 43082.91,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6236
+    },
+    {
+      "id": 260,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        1481.76,
+        398.14,
+        251.79,
+        121.53
+      ],
+      "area": 30600.04,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6087
+    },
+    {
+      "id": 261,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        1784.78,
+        360.12,
+        398.67,
+        116.53
+      ],
+      "area": 46457.02,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6737
+    },
+    {
+      "id": 262,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        2095.2,
+        296.1,
+        367.2,
+        121.53
+      ],
+      "area": 44625.82,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6502
+    },
+    {
+      "id": 263,
+      "image_id": 30,
+      "category_id": 1,
+      "bbox": [
+        2514.86,
+        354.62,
+        185.14,
+        116.53
+      ],
+      "area": 21574.36,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6517
+    },
+    {
+      "id": 264,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        682.07,
+        138.27,
+        122.22
+      ],
+      "area": 16899.36,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6022
+    },
+    {
+      "id": 265,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        166.88,
+        616.59,
+        157.45,
+        133.13
+      ],
+      "area": 20961.32,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6296
+    },
+    {
+      "id": 266,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        1046.59,
+        761.19,
+        118.09,
+        133.13
+      ],
+      "area": 15721.32,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6313
+    },
+    {
+      "id": 267,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        1383.0,
+        660.24,
+        233.37,
+        127.67
+      ],
+      "area": 29794.35,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.575
+    },
+    {
+      "id": 268,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        1728.5,
+        576.21,
+        194.0,
+        124.95
+      ],
+      "area": 24240.3,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.5847
+    },
+    {
+      "id": 269,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        2207.96,
+        478.0,
+        154.64,
+        124.95
+      ],
+      "area": 19322.27,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6722
+    },
+    {
+      "id": 270,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        2359.46,
+        392.33,
+        194.0,
+        127.67
+      ],
+      "area": 24767.98,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.7234
+    },
+    {
+      "id": 271,
+      "image_id": 31,
+      "category_id": 1,
+      "bbox": [
+        2566.53,
+        304.48,
+        118.09,
+        130.4
+      ],
+      "area": 15398.94,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6969
+    },
+    {
+      "id": 272,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        465.99,
+        70.51,
+        127.67
+      ],
+      "area": 9002.01,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.5848
+    },
+    {
+      "id": 273,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        93.42,
+        593.13,
+        106.37,
+        127.67
+      ],
+      "area": 13580.26,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.5854
+    },
+    {
+      "id": 274,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        197.37,
+        636.24,
+        103.79,
+        135.86
+      ],
+      "area": 14100.91,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.576
+    },
+    {
+      "id": 275,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        285.77,
+        705.53,
+        135.39,
+        133.13
+      ],
+      "area": 18024.47,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6692
+    },
+    {
+      "id": 276,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        621.94,
+        602.41,
+        97.07,
+        124.95
+      ],
+      "area": 12128.9,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6292
+    },
+    {
+      "id": 277,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        871.2,
+        282.65,
+        99.13,
+        127.67
+      ],
+      "area": 12655.93,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6143
+    },
+    {
+      "id": 278,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        1017.56,
+        447.44,
+        105.34,
+        127.67
+      ],
+      "area": 13448.76,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6906
+    },
+    {
+      "id": 279,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        1155.63,
+        624.23,
+        110.51,
+        130.4
+      ],
+      "area": 14410.5,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6353
+    },
+    {
+      "id": 280,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        1428.68,
+        778.11,
+        106.37,
+        124.95
+      ],
+      "area": 13290.93,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6754
+    },
+    {
+      "id": 281,
+      "image_id": 32,
+      "category_id": 1,
+      "bbox": [
+        2573.12,
+        353.59,
+        94.48,
+        122.22
+      ],
+      "area": 11547.35,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6489
+    },
+    {
+      "id": 282,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        783.77,
+        852.07,
+        119.03
+      ],
+      "area": 101421.89,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7505
+    },
+    {
+      "id": 283,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        1595.52,
+        803.27,
+        1104.48,
+        116.53
+      ],
+      "area": 128705.05,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.8012
+    },
+    {
+      "id": 284,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        41.57,
+        880.14,
+        90.44,
+        127.67
+      ],
+      "area": 11546.47,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6172
+    },
+    {
+      "id": 285,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        156.14,
+        707.17,
+        87.24,
+        124.95
+      ],
+      "area": 10900.64,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6273
+    },
+    {
+      "id": 286,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        214.28,
+        642.78,
+        91.07,
+        119.49
+      ],
+      "area": 10881.95,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7092
+    },
+    {
+      "id": 287,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        266.25,
+        748.64,
+        87.45,
+        127.67
+      ],
+      "area": 11164.74,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7524
+    },
+    {
+      "id": 288,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        320.77,
+        765.56,
+        92.78,
+        130.4
+      ],
+      "area": 12098.51,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.643
+    },
+    {
+      "id": 289,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        389.13,
+        863.23,
+        93.84,
+        130.4
+      ],
+      "area": 12236.74,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.7043
+    },
+    {
+      "id": 290,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        810.38,
+        805.39,
+        92.57,
+        130.4
+      ],
+      "area": 12071.13,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.5866
+    },
+    {
+      "id": 291,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        860.0,
+        848.49,
+        91.71,
+        127.67
+      ],
+      "area": 11708.62,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6193
+    },
+    {
+      "id": 292,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1010.78,
+        791.75,
+        100.44,
+        133.13
+      ],
+      "area": 13371.58,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6048
+    },
+    {
+      "id": 293,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1062.96,
+        839.22,
+        94.27,
+        127.67
+      ],
+      "area": 12035.45,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6812
+    },
+    {
+      "id": 294,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1240.57,
+        837.04,
+        97.68,
+        133.13
+      ],
+      "area": 13004.14,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6334
+    },
+    {
+      "id": 295,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1383.9,
+        778.65,
+        92.35,
+        133.13
+      ],
+      "area": 12294.56,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.6727
+    },
+    {
+      "id": 296,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1436.08,
+        770.47,
+        91.93,
+        138.59
+      ],
+      "area": 12740.58,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.5504
+    },
+    {
+      "id": 297,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1591.54,
+        852.86,
+        90.22,
+        127.67
+      ],
+      "area": 11518.39,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6688
+    },
+    {
+      "id": 298,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1649.68,
+        835.94,
+        88.09,
+        130.4
+      ],
+      "area": 11486.94,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.6039
+    },
+    {
+      "id": 299,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1740.41,
+        838.13,
+        90.86,
+        130.4
+      ],
+      "area": 11848.14,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6862
+    },
+    {
+      "id": 300,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1791.95,
+        804.84,
+        90.65,
+        130.4
+      ],
+      "area": 11820.76,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.7049
+    },
+    {
+      "id": 301,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1890.55,
+        845.22,
+        89.37,
+        130.4
+      ],
+      "area": 11653.85,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.655
+    },
+    {
+      "id": 302,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        1949.33,
+        844.68,
+        92.35,
+        127.67
+      ],
+      "area": 11790.32,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.6486
+    },
+    {
+      "id": 303,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2047.72,
+        839.22,
+        90.86,
+        130.4
+      ],
+      "area": 11848.14,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6676
+    },
+    {
+      "id": 304,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2256.0,
+        788.47,
+        100.23,
+        130.4
+      ],
+      "area": 13069.99,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.675
+    },
+    {
+      "id": 305,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2395.92,
+        825.58,
+        92.78,
+        130.4
+      ],
+      "area": 12098.51,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.6386
+    },
+    {
+      "id": 306,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2470.25,
+        819.58,
+        88.31,
+        130.4
+      ],
+      "area": 11515.62,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.6745
+    },
+    {
+      "id": 307,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2537.54,
+        808.66,
+        92.78,
+        127.67
+      ],
+      "area": 11845.22,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6738
+    },
+    {
+      "id": 308,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2589.08,
+        807.03,
+        92.14,
+        127.67
+      ],
+      "area": 11763.51,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.665
+    },
+    {
+      "id": 309,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        2637.21,
+        793.38,
+        62.79,
+        130.4
+      ],
+      "area": 8187.82,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.6416
+    },
+    {
+      "id": 310,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        808.66,
+        76.81,
+        130.4
+      ],
+      "area": 10016.02,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6911
+    },
+    {
+      "id": 311,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        47.92,
+        770.47,
+        94.83,
+        133.13
+      ],
+      "area": 12624.72,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6943
+    },
+    {
+      "id": 312,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        102.47,
+        814.12,
+        100.92,
+        130.4
+      ],
+      "area": 13159.97,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.7205
+    },
+    {
+      "id": 313,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        186.41,
+        823.39,
+        90.33,
+        130.4
+      ],
+      "area": 11779.03,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6711
+    },
+    {
+      "id": 314,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        267.71,
+        825.03,
+        91.39,
+        127.67
+      ],
+      "area": 11667.76,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6385
+    },
+    {
+      "id": 315,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        325.44,
+        828.85,
+        99.86,
+        127.67
+      ],
+      "area": 12749.13,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.673
+    },
+    {
+      "id": 316,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        457.31,
+        829.94,
+        93.24,
+        127.67
+      ],
+      "area": 11903.95,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6517
+    },
+    {
+      "id": 317,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        570.12,
+        837.58,
+        90.06,
+        130.4
+      ],
+      "area": 11743.82,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6524
+    },
+    {
+      "id": 318,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        666.25,
+        814.66,
+        95.36,
+        124.95
+      ],
+      "area": 11915.23,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6676
+    },
+    {
+      "id": 319,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        987.73,
+        857.23,
+        91.92,
+        130.4
+      ],
+      "area": 11986.37,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6213
+    },
+    {
+      "id": 320,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1116.95,
+        828.31,
+        99.07,
+        127.67
+      ],
+      "area": 12648.27,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6685
+    },
+    {
+      "id": 321,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1227.64,
+        858.32,
+        96.68,
+        124.95
+      ],
+      "area": 12080.17,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.656
+    },
+    {
+      "id": 322,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1333.83,
+        859.95,
+        91.65,
+        133.13
+      ],
+      "area": 12201.36,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6629
+    },
+    {
+      "id": 323,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1384.15,
+        865.41,
+        99.33,
+        127.67
+      ],
+      "area": 12681.46,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6404
+    },
+    {
+      "id": 324,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1469.42,
+        865.41,
+        94.83,
+        130.4
+      ],
+      "area": 12365.83,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.6672
+    },
+    {
+      "id": 325,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1651.07,
+        868.14,
+        91.12,
+        130.4
+      ],
+      "area": 11882.05,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6847
+    },
+    {
+      "id": 326,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1753.03,
+        870.87,
+        93.77,
+        124.95
+      ],
+      "area": 11716.56,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6766
+    },
+    {
+      "id": 327,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        1875.9,
+        877.41,
+        91.12,
+        130.4
+      ],
+      "area": 11882.05,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.6662
+    },
+    {
+      "id": 328,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2190.23,
+        875.78,
+        99.07,
+        130.4
+      ],
+      "area": 12918.73,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.6282
+    },
+    {
+      "id": 329,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2310.72,
+        870.87,
+        95.62,
+        127.67
+      ],
+      "area": 12207.81,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6228
+    },
+    {
+      "id": 330,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2368.71,
+        897.06,
+        94.56,
+        127.67
+      ],
+      "area": 12072.48,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.6952
+    },
+    {
+      "id": 331,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2444.97,
+        874.69,
+        95.62,
+        130.4
+      ],
+      "area": 12468.85,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.6612
+    },
+    {
+      "id": 332,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2515.94,
+        868.14,
+        101.45,
+        130.4
+      ],
+      "area": 13229.08,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.7131
+    },
+    {
+      "id": 333,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        2597.77,
+        871.41,
+        94.83,
+        127.67
+      ],
+      "area": 12106.95,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.7678
+    },
+    {
+      "id": 334,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        677.68,
+        207.18,
+        100.0
+      ],
+      "area": 20718.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7068
+    },
+    {
+      "id": 335,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        557.23,
+        729.07,
+        314.33,
+        100.0
+      ],
+      "area": 31433.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6561
+    },
+    {
+      "id": 336,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        1340.12,
+        788.15,
+        507.22,
+        100.0
+      ],
+      "area": 50722.0,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6465
+    },
+    {
+      "id": 337,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        2012.5,
+        841.97,
+        364.34,
+        100.0
+      ],
+      "area": 36434.0,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6287
+    },
+    {
+      "id": 338,
+      "image_id": 36,
+      "category_id": 1,
+      "bbox": [
+        2495.35,
+        833.91,
+        204.65,
+        100.0
+      ],
+      "area": 20465.0,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6057
+    },
+    {
+      "id": 339,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        279.36,
+        928.86,
+        89.35,
+        100.0
+      ],
+      "area": 8935.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6104
+    },
+    {
+      "id": 340,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        318.75,
+        919.76,
+        88.22,
+        100.0
+      ],
+      "area": 8822.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6989
+    },
+    {
+      "id": 341,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        351.48,
+        911.08,
+        88.08,
+        100.0
+      ],
+      "area": 8808.0,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6195
+    },
+    {
+      "id": 342,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        381.66,
+        907.77,
+        87.51,
+        100.0
+      ],
+      "area": 8751.0,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.6601
+    },
+    {
+      "id": 343,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        415.24,
+        905.01,
+        88.5,
+        100.0
+      ],
+      "area": 8850.0,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.6999
+    },
+    {
+      "id": 344,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        446.41,
+        908.32,
+        85.95,
+        100.0
+      ],
+      "area": 8595.0,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6713
+    },
+    {
+      "id": 345,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        497.56,
+        900.18,
+        87.93,
+        100.0
+      ],
+      "area": 8793.0,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.688
+    },
+    {
+      "id": 346,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        554.24,
+        895.91,
+        85.95,
+        100.0
+      ],
+      "area": 8595.0,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6621
+    },
+    {
+      "id": 347,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        593.63,
+        897.84,
+        90.48,
+        100.0
+      ],
+      "area": 9048.0,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6188
+    },
+    {
+      "id": 348,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        652.99,
+        900.18,
+        85.81,
+        100.0
+      ],
+      "area": 8581.0,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6626
+    },
+    {
+      "id": 349,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        678.5,
+        899.91,
+        84.96,
+        100.0
+      ],
+      "area": 8496.0,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6579
+    },
+    {
+      "id": 350,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        725.11,
+        904.46,
+        92.61,
+        100.0
+      ],
+      "area": 9261.0,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.5909
+    },
+    {
+      "id": 351,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        782.64,
+        898.53,
+        89.07,
+        100.0
+      ],
+      "area": 8907.0,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6334
+    },
+    {
+      "id": 352,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        811.4,
+        894.67,
+        86.52,
+        100.0
+      ],
+      "area": 8652.0,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6584
+    },
+    {
+      "id": 353,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        844.13,
+        902.11,
+        87.93,
+        100.0
+      ],
+      "area": 8793.0,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.6397
+    },
+    {
+      "id": 354,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        881.82,
+        903.35,
+        85.81,
+        100.0
+      ],
+      "area": 8581.0,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6574
+    },
+    {
+      "id": 355,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1054.25,
+        892.6,
+        93.32,
+        100.0
+      ],
+      "area": 9332.0,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6154
+    },
+    {
+      "id": 356,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1097.04,
+        891.36,
+        86.09,
+        100.0
+      ],
+      "area": 8609.0,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.6524
+    },
+    {
+      "id": 357,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1151.31,
+        880.06,
+        89.49,
+        100.0
+      ],
+      "area": 8949.0,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.6362
+    },
+    {
+      "id": 358,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1189.57,
+        876.88,
+        86.94,
+        100.0
+      ],
+      "area": 8694.0,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6286
+    },
+    {
+      "id": 359,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1229.52,
+        865.85,
+        86.94,
+        100.0
+      ],
+      "area": 8694.0,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.629
+    },
+    {
+      "id": 360,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1303.34,
+        863.37,
+        92.33,
+        100.0
+      ],
+      "area": 9233.0,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.6297
+    },
+    {
+      "id": 361,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1346.41,
+        855.93,
+        87.23,
+        100.0
+      ],
+      "area": 8723.0,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.6462
+    },
+    {
+      "id": 362,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1439.93,
+        845.86,
+        86.38,
+        100.0
+      ],
+      "area": 8638.0,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6238
+    },
+    {
+      "id": 363,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1481.44,
+        839.66,
+        88.78,
+        100.0
+      ],
+      "area": 8878.0,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.6273
+    },
+    {
+      "id": 364,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1541.94,
+        837.87,
+        87.51,
+        100.0
+      ],
+      "area": 8751.0,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.6027
+    },
+    {
+      "id": 365,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1629.93,
+        828.77,
+        89.35,
+        100.0
+      ],
+      "area": 8935.0,
+      "iscrowd": 0,
+      "fault_id": 27,
+      "confidence": "high",
+      "avg_prob": 0.6785
+    },
+    {
+      "id": 366,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1669.32,
+        816.64,
+        87.65,
+        100.0
+      ],
+      "area": 8765.0,
+      "iscrowd": 0,
+      "fault_id": 28,
+      "confidence": "high",
+      "avg_prob": 0.6386
+    },
+    {
+      "id": 367,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1705.17,
+        810.29,
+        87.23,
+        100.0
+      ],
+      "area": 8723.0,
+      "iscrowd": 0,
+      "fault_id": 29,
+      "confidence": "high",
+      "avg_prob": 0.6422
+    },
+    {
+      "id": 368,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1799.81,
+        769.62,
+        87.93,
+        100.0
+      ],
+      "area": 8793.0,
+      "iscrowd": 0,
+      "fault_id": 30,
+      "confidence": "high",
+      "avg_prob": 0.6488
+    },
+    {
+      "id": 369,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1846.43,
+        760.39,
+        85.81,
+        100.0
+      ],
+      "area": 8581.0,
+      "iscrowd": 0,
+      "fault_id": 31,
+      "confidence": "high",
+      "avg_prob": 0.6475
+    },
+    {
+      "id": 370,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1877.32,
+        747.15,
+        86.8,
+        100.0
+      ],
+      "area": 8680.0,
+      "iscrowd": 0,
+      "fault_id": 32,
+      "confidence": "high",
+      "avg_prob": 0.6579
+    },
+    {
+      "id": 371,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1934.98,
+        735.43,
+        89.78,
+        100.0
+      ],
+      "area": 8978.0,
+      "iscrowd": 0,
+      "fault_id": 33,
+      "confidence": "high",
+      "avg_prob": 0.6253
+    },
+    {
+      "id": 372,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        1976.78,
+        728.54,
+        87.51,
+        100.0
+      ],
+      "area": 8751.0,
+      "iscrowd": 0,
+      "fault_id": 34,
+      "confidence": "high",
+      "avg_prob": 0.6498
+    },
+    {
+      "id": 373,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2460.08,
+        611.21,
+        91.05,
+        100.0
+      ],
+      "area": 9105.0,
+      "iscrowd": 0,
+      "fault_id": 35,
+      "confidence": "high",
+      "avg_prob": 0.7435
+    },
+    {
+      "id": 374,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2539.14,
+        566.82,
+        88.5,
+        100.0
+      ],
+      "area": 8850.0,
+      "iscrowd": 0,
+      "fault_id": 36,
+      "confidence": "high",
+      "avg_prob": 0.724
+    },
+    {
+      "id": 375,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2575.7,
+        541.04,
+        88.5,
+        100.0
+      ],
+      "area": 8850.0,
+      "iscrowd": 0,
+      "fault_id": 37,
+      "confidence": "high",
+      "avg_prob": 0.7146
+    },
+    {
+      "id": 376,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2616.5,
+        502.44,
+        83.5,
+        100.0
+      ],
+      "area": 8350.0,
+      "iscrowd": 0,
+      "fault_id": 38,
+      "confidence": "high",
+      "avg_prob": 0.7623
+    },
+    {
+      "id": 377,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        2653.62,
+        468.38,
+        46.38,
+        100.0
+      ],
+      "area": 4638.0,
+      "iscrowd": 0,
+      "fault_id": 39,
+      "confidence": "high",
+      "avg_prob": 0.6962
+    },
+    {
+      "id": 378,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        136.18,
+        582.26,
+        88.42,
+        100.0
+      ],
+      "area": 8842.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6342
+    },
+    {
+      "id": 379,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        168.37,
+        660.3,
+        92.11,
+        100.0
+      ],
+      "area": 9211.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.686
+    },
+    {
+      "id": 380,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        245.31,
+        667.06,
+        86.35,
+        100.0
+      ],
+      "area": 8635.0,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6984
+    },
+    {
+      "id": 381,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        277.66,
+        716.55,
+        91.67,
+        100.0
+      ],
+      "area": 9167.0,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.586
+    },
+    {
+      "id": 382,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        341.6,
+        643.75,
+        88.42,
+        100.0
+      ],
+      "area": 8842.0,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.652
+    },
+    {
+      "id": 383,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        402.0,
+        586.82,
+        85.76,
+        100.0
+      ],
+      "area": 8576.0,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6551
+    },
+    {
+      "id": 384,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        455.16,
+        636.49,
+        92.11,
+        100.0
+      ],
+      "area": 9211.0,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.7176
+    },
+    {
+      "id": 385,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1032.59,
+        631.93,
+        88.71,
+        100.0
+      ],
+      "area": 8871.0,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.651
+    },
+    {
+      "id": 386,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1080.43,
+        653.04,
+        91.22,
+        100.0
+      ],
+      "area": 9122.0,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6743
+    },
+    {
+      "id": 387,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1108.35,
+        755.74,
+        87.09,
+        100.0
+      ],
+      "area": 8709.0,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6982
+    },
+    {
+      "id": 388,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1143.35,
+        810.3,
+        88.12,
+        100.0
+      ],
+      "area": 8812.0,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6954
+    },
+    {
+      "id": 389,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1174.06,
+        809.12,
+        88.27,
+        100.0
+      ],
+      "area": 8827.0,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.7475
+    },
+    {
+      "id": 390,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1212.61,
+        666.05,
+        87.53,
+        100.0
+      ],
+      "area": 8753.0,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6201
+    },
+    {
+      "id": 391,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1364.27,
+        679.22,
+        89.45,
+        100.0
+      ],
+      "area": 8945.0,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6178
+    },
+    {
+      "id": 392,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1419.95,
+        704.73,
+        88.57,
+        100.0
+      ],
+      "area": 8857.0,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.6686
+    },
+    {
+      "id": 393,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1909.06,
+        636.82,
+        85.61,
+        100.0
+      ],
+      "area": 8561.0,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.7123
+    },
+    {
+      "id": 394,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        1945.24,
+        750.0,
+        84.28,
+        100.0
+      ],
+      "area": 8428.0,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.689
+    },
+    {
+      "id": 395,
+      "image_id": 39,
+      "category_id": 1,
+      "bbox": [
+        2059.39,
+        689.36,
+        85.91,
+        100.0
+      ],
+      "area": 8591.0,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.8111
+    },
+    {
+      "id": 396,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        15.31,
+        421.37,
+        100.22,
+        100.0
+      ],
+      "area": 10022.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.7729
+    },
+    {
+      "id": 397,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        91.6,
+        396.55,
+        112.42,
+        100.0
+      ],
+      "area": 11242.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.7697
+    },
+    {
+      "id": 398,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        223.59,
+        355.61,
+        105.56,
+        100.0
+      ],
+      "area": 10556.0,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6763
+    },
+    {
+      "id": 399,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        305.61,
+        336.44,
+        93.35,
+        100.0
+      ],
+      "area": 9335.0,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7021
+    },
+    {
+      "id": 400,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        392.96,
+        317.83,
+        109.37,
+        100.0
+      ],
+      "area": 10937.0,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.667
+    },
+    {
+      "id": 401,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        562.71,
+        295.22,
+        98.31,
+        100.0
+      ],
+      "area": 9831.0,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.6261
+    },
+    {
+      "id": 402,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        729.41,
+        273.44,
+        107.85,
+        100.0
+      ],
+      "area": 10785.0,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.6301
+    },
+    {
+      "id": 403,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        1152.84,
+        214.98,
+        91.44,
+        100.0
+      ],
+      "area": 9144.0,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.6783
+    },
+    {
+      "id": 404,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        1370.65,
+        192.23,
+        106.7,
+        100.0
+      ],
+      "area": 10670.0,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6199
+    },
+    {
+      "id": 405,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        223.68,
+        306.94,
+        87.18,
+        100.0
+      ],
+      "area": 8718.0,
+      "iscrowd": 0,
+      "fault_id": 1,
+      "confidence": "high",
+      "avg_prob": 0.6392
+    },
+    {
+      "id": 406,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        249.88,
+        319.49,
+        88.14,
+        100.0
+      ],
+      "area": 8814.0,
+      "iscrowd": 0,
+      "fault_id": 2,
+      "confidence": "high",
+      "avg_prob": 0.6174
+    },
+    {
+      "id": 407,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        279.31,
+        339.48,
+        83.71,
+        100.0
+      ],
+      "area": 8371.0,
+      "iscrowd": 0,
+      "fault_id": 3,
+      "confidence": "high",
+      "avg_prob": 0.6341
+    },
+    {
+      "id": 408,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        309.46,
+        366.91,
+        85.38,
+        100.0
+      ],
+      "area": 8538.0,
+      "iscrowd": 0,
+      "fault_id": 4,
+      "confidence": "high",
+      "avg_prob": 0.7362
+    },
+    {
+      "id": 409,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        338.06,
+        397.79,
+        87.54,
+        100.0
+      ],
+      "area": 8754.0,
+      "iscrowd": 0,
+      "fault_id": 5,
+      "confidence": "high",
+      "avg_prob": 0.7674
+    },
+    {
+      "id": 410,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        362.22,
+        425.92,
+        88.26,
+        100.0
+      ],
+      "area": 8826.0,
+      "iscrowd": 0,
+      "fault_id": 6,
+      "confidence": "high",
+      "avg_prob": 0.7102
+    },
+    {
+      "id": 411,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        403.74,
+        478.31,
+        88.49,
+        100.0
+      ],
+      "area": 8849.0,
+      "iscrowd": 0,
+      "fault_id": 7,
+      "confidence": "high",
+      "avg_prob": 0.7437
+    },
+    {
+      "id": 412,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        430.78,
+        506.02,
+        86.22,
+        100.0
+      ],
+      "area": 8622.0,
+      "iscrowd": 0,
+      "fault_id": 8,
+      "confidence": "high",
+      "avg_prob": 0.7905
+    },
+    {
+      "id": 413,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        460.93,
+        539.38,
+        87.18,
+        100.0
+      ],
+      "area": 8718.0,
+      "iscrowd": 0,
+      "fault_id": 9,
+      "confidence": "high",
+      "avg_prob": 0.6808
+    },
+    {
+      "id": 414,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        556.64,
+        622.38,
+        86.34,
+        100.0
+      ],
+      "area": 8634.0,
+      "iscrowd": 0,
+      "fault_id": 10,
+      "confidence": "high",
+      "avg_prob": 0.6265
+    },
+    {
+      "id": 415,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        585.59,
+        665.95,
+        85.98,
+        100.0
+      ],
+      "area": 8598.0,
+      "iscrowd": 0,
+      "fault_id": 11,
+      "confidence": "high",
+      "avg_prob": 0.6406
+    },
+    {
+      "id": 416,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        963.17,
+        754.6,
+        84.67,
+        100.0
+      ],
+      "area": 8467.0,
+      "iscrowd": 0,
+      "fault_id": 12,
+      "confidence": "high",
+      "avg_prob": 0.6387
+    },
+    {
+      "id": 417,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        993.32,
+        769.62,
+        85.98,
+        100.0
+      ],
+      "area": 8598.0,
+      "iscrowd": 0,
+      "fault_id": 13,
+      "confidence": "high",
+      "avg_prob": 0.6274
+    },
+    {
+      "id": 418,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1021.43,
+        783.27,
+        88.26,
+        100.0
+      ],
+      "area": 8826.0,
+      "iscrowd": 0,
+      "fault_id": 14,
+      "confidence": "high",
+      "avg_prob": 0.6521
+    },
+    {
+      "id": 419,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1115.59,
+        802.3,
+        84.79,
+        100.0
+      ],
+      "area": 8479.0,
+      "iscrowd": 0,
+      "fault_id": 15,
+      "confidence": "high",
+      "avg_prob": 0.6449
+    },
+    {
+      "id": 420,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1176.36,
+        814.98,
+        87.18,
+        100.0
+      ],
+      "area": 8718.0,
+      "iscrowd": 0,
+      "fault_id": 16,
+      "confidence": "high",
+      "avg_prob": 0.6771
+    },
+    {
+      "id": 421,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1357.26,
+        858.13,
+        86.58,
+        100.0
+      ],
+      "area": 8658.0,
+      "iscrowd": 0,
+      "fault_id": 17,
+      "confidence": "high",
+      "avg_prob": 0.6506
+    },
+    {
+      "id": 422,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1387.76,
+        860.34,
+        83.83,
+        100.0
+      ],
+      "area": 8383.0,
+      "iscrowd": 0,
+      "fault_id": 18,
+      "confidence": "high",
+      "avg_prob": 0.6182
+    },
+    {
+      "id": 423,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1414.92,
+        863.37,
+        85.5,
+        100.0
+      ],
+      "area": 8550.0,
+      "iscrowd": 0,
+      "fault_id": 19,
+      "confidence": "high",
+      "avg_prob": 0.622
+    },
+    {
+      "id": 424,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1451.41,
+        868.06,
+        87.18,
+        100.0
+      ],
+      "area": 8718.0,
+      "iscrowd": 0,
+      "fault_id": 20,
+      "confidence": "high",
+      "avg_prob": 0.6515
+    },
+    {
+      "id": 425,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1610.53,
+        886.4,
+        89.93,
+        100.0
+      ],
+      "area": 8993.0,
+      "iscrowd": 0,
+      "fault_id": 21,
+      "confidence": "high",
+      "avg_prob": 0.6474
+    },
+    {
+      "id": 426,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1664.01,
+        889.43,
+        90.65,
+        100.0
+      ],
+      "area": 9065.0,
+      "iscrowd": 0,
+      "fault_id": 22,
+      "confidence": "high",
+      "avg_prob": 0.643
+    },
+    {
+      "id": 427,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1746.08,
+        893.98,
+        85.38,
+        100.0
+      ],
+      "area": 8538.0,
+      "iscrowd": 0,
+      "fault_id": 23,
+      "confidence": "high",
+      "avg_prob": 0.6283
+    },
+    {
+      "id": 428,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1830.55,
+        896.05,
+        87.18,
+        100.0
+      ],
+      "area": 8718.0,
+      "iscrowd": 0,
+      "fault_id": 24,
+      "confidence": "high",
+      "avg_prob": 0.6611
+    },
+    {
+      "id": 429,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1908.43,
+        896.74,
+        88.37,
+        100.0
+      ],
+      "area": 8837.0,
+      "iscrowd": 0,
+      "fault_id": 25,
+      "confidence": "high",
+      "avg_prob": 0.6304
+    },
+    {
+      "id": 430,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1939.42,
+        892.6,
+        84.79,
+        100.0
+      ],
+      "area": 8479.0,
+      "iscrowd": 0,
+      "fault_id": 26,
+      "confidence": "high",
+      "avg_prob": 0.6666
+    },
+    {
+      "id": 431,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        1979.74,
+        899.77,
+        84.91,
+        100.0
+      ],
+      "area": 8491.0,
+      "iscrowd": 0,
+      "fault_id": 27,
+      "confidence": "high",
+      "avg_prob": 0.6479
+    },
+    {
+      "id": 432,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2025.44,
+        900.18,
+        86.58,
+        100.0
+      ],
+      "area": 8658.0,
+      "iscrowd": 0,
+      "fault_id": 28,
+      "confidence": "high",
+      "avg_prob": 0.6297
+    },
+    {
+      "id": 433,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2079.28,
+        900.74,
+        88.61,
+        100.0
+      ],
+      "area": 8861.0,
+      "iscrowd": 0,
+      "fault_id": 29,
+      "confidence": "high",
+      "avg_prob": 0.6046
+    },
+    {
+      "id": 434,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2107.63,
+        900.32,
+        86.58,
+        100.0
+      ],
+      "area": 8658.0,
+      "iscrowd": 0,
+      "fault_id": 30,
+      "confidence": "high",
+      "avg_prob": 0.676
+    },
+    {
+      "id": 435,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2147.59,
+        901.84,
+        88.85,
+        100.0
+      ],
+      "area": 8885.0,
+      "iscrowd": 0,
+      "fault_id": 31,
+      "confidence": "high",
+      "avg_prob": 0.6473
+    },
+    {
+      "id": 436,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2180.13,
+        903.22,
+        88.26,
+        100.0
+      ],
+      "area": 8826.0,
+      "iscrowd": 0,
+      "fault_id": 32,
+      "confidence": "high",
+      "avg_prob": 0.6618
+    },
+    {
+      "id": 437,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2206.33,
+        910.11,
+        87.18,
+        100.0
+      ],
+      "area": 8718.0,
+      "iscrowd": 0,
+      "fault_id": 33,
+      "confidence": "high",
+      "avg_prob": 0.6316
+    },
+    {
+      "id": 438,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2237.92,
+        906.8,
+        87.42,
+        100.0
+      ],
+      "area": 8742.0,
+      "iscrowd": 0,
+      "fault_id": 34,
+      "confidence": "high",
+      "avg_prob": 0.6423
+    },
+    {
+      "id": 439,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2286.61,
+        906.66,
+        85.14,
+        100.0
+      ],
+      "area": 8514.0,
+      "iscrowd": 0,
+      "fault_id": 35,
+      "confidence": "high",
+      "avg_prob": 0.6544
+    },
+    {
+      "id": 440,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2317.83,
+        908.18,
+        85.62,
+        100.0
+      ],
+      "area": 8562.0,
+      "iscrowd": 0,
+      "fault_id": 36,
+      "confidence": "high",
+      "avg_prob": 0.6593
+    },
+    {
+      "id": 441,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2366.89,
+        911.49,
+        86.82,
+        100.0
+      ],
+      "area": 8682.0,
+      "iscrowd": 0,
+      "fault_id": 37,
+      "confidence": "high",
+      "avg_prob": 0.6597
+    },
+    {
+      "id": 442,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2407.56,
+        919.35,
+        86.34,
+        100.0
+      ],
+      "area": 8634.0,
+      "iscrowd": 0,
+      "fault_id": 38,
+      "confidence": "high",
+      "avg_prob": 0.7
+    },
+    {
+      "id": 443,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2431.25,
+        930.65,
+        87.42,
+        100.0
+      ],
+      "area": 8742.0,
+      "iscrowd": 0,
+      "fault_id": 39,
+      "confidence": "high",
+      "avg_prob": 0.6403
+    },
+    {
+      "id": 444,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2506.14,
+        933.82,
+        87.66,
+        100.0
+      ],
+      "area": 8766.0,
+      "iscrowd": 0,
+      "fault_id": 40,
+      "confidence": "high",
+      "avg_prob": 0.6463
+    },
+    {
+      "id": 445,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        2559.98,
+        944.85,
+        86.34,
+        100.0
+      ],
+      "area": 8634.0,
+      "iscrowd": 0,
+      "fault_id": 41,
+      "confidence": "high",
+      "avg_prob": 0.627
+    }
+  ]
+}

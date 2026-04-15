@@ -1,0 +1,12 @@
+Model: alpha.pth
+Training data: run_20260407_171623
+Epochs: 90
+Best F1: 0.596
+Precision: 0.566
+Recall: 0.625
+TP: 278
+FP: 213
+FN: 167
+Backbone: ResNet-50 + FPN
+Batch size: 4
+Learning rate: 0.0005
